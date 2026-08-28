@@ -1,0 +1,6 @@
+{
+  "name": "Scroll-Driven Hero Video",
+  "description": "Full-screen cinematic scroll-controlled video zoom hero section with forward/reverse scrubbing and seamless section transitions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
